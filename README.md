@@ -2,7 +2,7 @@
 
 **WS-DETR** is a state-of-the-art real-time object detection framework tailored for industrial applications, integrating wavelet-guided feature extraction and sparse cubic attention to address challenges in occluded, multi-scale, and cluttered environments.
 
-![WS-DETR Architecture](images/architecture.png)
+![WS-DETR Architecture](images/archtecture.png)
 
 ## Key Features
 - **Wavelet-Guided Backbone**: Expands receptive fields by 8× through Daubechies wavelet decomposition, achieving **77.4% AP50** on industrial defect detection.
