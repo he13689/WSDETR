@@ -21,3 +21,11 @@ pip install -r requirements.txt
 
 # Download pretrained models
 in ./weights folder
+
+If you use WS-DETR in your research, please cite:
+@article{he2024wsdetr,
+  title={Wavelet Guided Real-Time Detection Transformer with Sparse Attention},
+  author={He, Yiqing and Zheng, Zefeng and Wu, Hanwei and Wang, Zhuowei and Cheng, Lianglun},
+  journal={arXiv preprint arXiv:240X.XXXXX},
+  year={2024}
+}
